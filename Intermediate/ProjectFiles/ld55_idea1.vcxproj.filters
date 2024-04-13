@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ld55_idea1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ld55_idea1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ld55_idea1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ld55_idea1">
+      <UniqueIdentifier>{FD59138E-AD97-3C31-9617-B81E32511F04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ld55_idea1\ld55_idea1.Build.cs">
+      <Filter>Source\ld55_idea1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ld55_idea1\ld55_idea1.cpp">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ld55_idea1\ld55_idea1.h">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ld55_idea1\ld55_idea1Character.cpp">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ld55_idea1\ld55_idea1Character.h">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ld55_idea1\ld55_idea1GameMode.cpp">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ld55_idea1\ld55_idea1GameMode.h">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ld55_idea1\ld55_idea1PlayerController.cpp">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ld55_idea1\ld55_idea1PlayerController.h">
+      <Filter>Source\ld55_idea1</Filter>
+    </ClInclude>
+    <Filter Include="Source\ld55_idea1\Private">
+      <UniqueIdentifier>{1A12E9A2-3CBA-322E-A646-6B0F70888F9B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ld55_idea1\Private\BaseSpawnableActor.cpp">
+      <Filter>Source\ld55_idea1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ld55_idea1\Private\Player">
+      <UniqueIdentifier>{324E696A-1ACD-35B2-8716-C74AEA603D52}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ld55_idea1\Private\Player\BaseSummonComponent.cpp">
+      <Filter>Source\ld55_idea1\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ld55_idea1\Private\Player\SpawnMachinegunBeltComponent.cpp">
+      <Filter>Source\ld55_idea1\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ld55_idea1\Private\Player\StructuresSummonComponent.cpp">
+      <Filter>Source\ld55_idea1\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ld55_idea1\Private\Player\UnitSummonComponent.cpp">
+      <Filter>Source\ld55_idea1\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\ld55_idea1\Public">
+      <UniqueIdentifier>{948101EA-EFE3-3A10-B287-2246C2D3DD85}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ld55_idea1\Public\BaseSpawnableActor.h">
+      <Filter>Source\ld55_idea1\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\ld55_idea1\Public\Player">
+      <UniqueIdentifier>{7AE7AD37-9735-3184-8225-5E4690F22380}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ld55_idea1\Public\Player\BaseSummonComponent.h">
+      <Filter>Source\ld55_idea1\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ld55_idea1\Public\Player\SpawnMachinegunBeltComponent.h">
+      <Filter>Source\ld55_idea1\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ld55_idea1\Public\Player\StructuresSummonComponent.h">
+      <Filter>Source\ld55_idea1\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ld55_idea1\Public\Player\UnitSummonComponent.h">
+      <Filter>Source\ld55_idea1\Public\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/ld55_idea1/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"E:/Unreal Projects/ld55_idea1/Content/TopDown/Input/Actions/IA_Summon.uasset",
+				"E:/Unreal Projects/ld55_idea1/Content/TopDown/Input/IMC_Default.uasset",
+				"E:/Unreal Projects/ld55_idea1/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset",
+				"E:/Unreal Projects/ld55_idea1/Content/TopDown/Blueprints/BP_BaseSpawnableActor.uasset"
+			]
+		}
+	]
+}
